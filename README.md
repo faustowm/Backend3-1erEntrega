@@ -1,6 +1,4 @@
 🚀 Primera Entrega del Curso de Backend 3
-¡Bienvenidos a la Primera Entrega del Curso de Backend 3 deCasa de codificación! 💻✨ Este proyecto es el punto de partida
-
 A lo largo de este proceso, hemos incorporado herramientas y técnicas modernas para llevar el proyecto al siguiente nivel, asegurándonos de que sea robusto, eficiente y fácil de usar. ¡Aquí empieza la magia del backend! 🎩✨
 
 ✨ Funcionalidades principales
@@ -54,3 +52,6 @@ Autor
 Desarrollado por Fausto Monteroni .
 
 ¡Gracias por visitar el proyecto! 🚀
+
+
+MONGODB_URI=mongodb+srv://faustowm:coderhouse@cluster0.zx4tj.mongodb.net/MacotasBackend3?retryWrites=true&w=majority&appName=Cluster0 
